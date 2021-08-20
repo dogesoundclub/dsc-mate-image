@@ -1,0 +1,1 @@
+{"version":3,"file":"Contract.d.ts","sourceRoot":"","sources":["../../src/Contract.ts"],"names":[],"mappings":"AAAA,OAAO,cAAc,MAAM,gBAAgB,CAAC;AAG5C,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,QAAS,SAAQ,cAAc;IAItC,OAAO,EAAE,MAAM;IAFlC,SAAS,CAAC,QAAQ,EAAE,GAAG,CAAC;gBAEL,OAAO,EAAE,MAAM,EAAE,GAAG,EAAE,GAAG;CAI/C"}
